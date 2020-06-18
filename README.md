@@ -1,7 +1,9 @@
 # WWDC20-StudentChallenge
-Swift Student Challenge 2020 application
+Swift Student Challenge 2020 application (status: **Accepted**).
 
-## Tell us about the features and technologies you used in your Swift playground
+This submission is compatible with iPad and macOS Playgrounds.
+
+## Essay: Tell us about the features and technologies you used in your Swift playground
 
 This submission is about privacy and technology.
 
